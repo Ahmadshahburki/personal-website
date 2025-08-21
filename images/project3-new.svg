@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" rx="16" fill="#fbf2ff"/>
+  <g transform="translate(40,30)">
+    <rect width="720" height="340" rx="12" fill="#f0d9ff"/>
+    <text x="60" y="80" font-size="28" fill="#5b21b6" font-family="Arial">A/B Test Analysis</text>
+    <text x="60" y="120" font-size="14" fill="#4c1d95">Hypothesis testing & recommendation</text>
+    <g transform="translate(60,160)">
+      <circle cx="40" cy="40" r="36" fill="#fff" opacity="0.12"/>
+      <rect x="100" y="24" width="520" height="14" rx="6" fill="#fff" opacity="0.12"/>
+    </g>
+  </g>
+</svg>
